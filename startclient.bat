@@ -1,0 +1,1 @@
+java -classpath ./bin Staff.ManagerClient LVL1004 localhost 1050

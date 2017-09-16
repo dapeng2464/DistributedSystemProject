@@ -1,0 +1,1 @@
+java -classpath ./bin Staff.ClinicServer 1 890 2250

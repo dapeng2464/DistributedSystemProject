@@ -1,0 +1,1 @@
+java -classpath ./bin Staff.FEServant localhost 1050 localhost 999

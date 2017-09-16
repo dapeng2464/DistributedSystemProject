@@ -1,0 +1,1 @@
+java -classpath ./bin Staff.ClinicServer 0 999 localhost 889 localhost 890
